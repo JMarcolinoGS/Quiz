@@ -24,8 +24,17 @@ if answer_user == A:
     score = score + 1
 else:
     print(" Voce errou")
+    
+    print("Quem é o protagonista da seríe The Last of Us?\n (A) Ellie \n (B) Abby \n (C) Sara \n (D) Joel \n" )
+answer_user = input("Resposta:")
 
-print(f"Acabou o jogo.....Pontuação: {score}/n")
+if answer_user == D:
+    print("Parabens voce acertou?")
+    score = score + 1
+else:
+    print(" Voce errou")
+
+print(f"Acabou o jogo.....Pontuação: {score}/3")
 
 
     
