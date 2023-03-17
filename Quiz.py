@@ -34,7 +34,7 @@ if answer_user == D:
 else:
     print(" Voce errou")
 
-print(f"Acabou o jogo.....Pontuação: {score}/4")
+print(f"Acabou o jogo.....Pontuação: {score}/3")
 
 
     
