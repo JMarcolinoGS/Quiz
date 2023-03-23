@@ -36,6 +36,6 @@ else:
 
 print(f"Acabou o jogo.....Pontuação: {score}/3")
 print(f"Acabou o jogo.....Pontuação: {score}/3")
-print(f"Acabou o jogo.....Pontuação: {score}/3")
+
 
     
