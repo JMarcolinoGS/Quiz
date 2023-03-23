@@ -35,6 +35,6 @@ else:
     print(" Voce errou")
 
 print(f"Acabou o jogo.....Pontuação: {score}/3")
-
+print(f"Acabou o jogo.....Pontuação: {score}/3")
 
     
