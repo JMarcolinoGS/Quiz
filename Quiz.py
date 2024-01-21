@@ -37,5 +37,6 @@ else:
 print(f"Acabou o jogo.....Pontuação: {score}/3")
 
 
+
     
 
