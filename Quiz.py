@@ -6,6 +6,7 @@ if answer_user != "S":
 
 score = 0
 
+
 print("começando...")
 print("Quem desenvolveu o jogo Grand Teft Auto (GTA)?\n (A) RockstarGames \n (B) Ubisoft \n (C) Gameloft \n (D) TheSociet \n" )
 answer_user = input("Resposta:")
