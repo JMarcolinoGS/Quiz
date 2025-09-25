@@ -1,5 +1,5 @@
 
 # Quiz
-Projeto voltado para iniciantes que queiram testar suas habilidades, foi criado com o intuito de se criar algo simples. No projeto foi utilizado somente Python.
+Projeto voltado para testar os ensinamentos do teórico e colocar a mão na massa. No projeto foi utilizado somente Python.
 
 
