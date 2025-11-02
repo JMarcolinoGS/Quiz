@@ -1,6 +1,7 @@
 print("Seja muito Bem Vindo ao quiz do Marc!")
 answer_user = input("Você quer começar? (S/N)")
 
+
 if answer_user != "S":
     quit()
 
